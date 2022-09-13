@@ -1,4 +1,6 @@
-# Homework Ice Cream Website 
+# Lap 1 futureproof Homework 
+
+## Ice Cream Website 
 
 Created a basic html and css website with bootstrap.
 
