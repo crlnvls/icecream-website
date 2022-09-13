@@ -4,4 +4,4 @@
 
 - Basic html and css website with bootstrap.
 
-- Navigate to the url [https://i-c-e-cream.netlify.app/](https://i-c-e-cream.netlify.app/)
+- Navigate to the url [https://icecream-bootstrap.netlify.app/](https://icecream-bootstrap.netlify.app/)
